@@ -21,6 +21,5 @@ the main questions they’d like to answer:
 - PostgreSQL
 - Data visualization and storytelling
 
-Link to Tableau Public Visualizations:
-
-[Test](https://public.tableau.com/views/RockbusterDataVisualizations/Top10MoviesbyRevenueBarGraph?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Link](https://public.tableau.com/views/RockbusterDataVisualizations/Top10MoviesbyRevenueBarGraph?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+ to Tableau Public Visualizations:
