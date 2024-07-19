@@ -20,3 +20,7 @@ the main questions they’d like to answer:
 **Skills Used:**
 - PostgreSQL
 - Data visualization and storytelling
+
+Link to Tableau Public Visualizations:
+
+[https://public.tableau.com/views/RockbusterDataVisualizations/Top10MoviesbyRevenueBarGraph?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](url)
