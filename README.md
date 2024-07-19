@@ -23,4 +23,4 @@ the main questions they’d like to answer:
 
 Link to Tableau Public Visualizations:
 
-[Test]([url](https://public.tableau.com/views/RockbusterDataVisualizations/Top10MoviesbyRevenueBarGraph?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[Test](https://public.tableau.com/views/RockbusterDataVisualizations/Top10MoviesbyRevenueBarGraph?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
