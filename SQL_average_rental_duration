@@ -1,0 +1,18 @@
+Code Explanation: 
+-This SQL query retrieves the average rental duration for each movie category by joining the film, film_category, and category tables on their respective keys.
+-Selects the category name and calculates the rounded average rental duration, grouping the results by category name and ordering them in descending order of average rental duration.
+
+Skills Used:
+SQL query writing, data aggregation, table joins
+
+SELECT
+  C.name AS category_name,
+  ROUND(AVG(A.rental_duration), 2) AS average_rental_duration
+
+FROM film A
+
+JOIN film_category B ON A.film_id = B.film_id
+JOIN category C ON B.category_id = C.category_id
+
+GROUP BY category_name
+ORDER BY average_rental_duration DESC
